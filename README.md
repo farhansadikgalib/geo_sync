@@ -43,3 +43,10 @@ Follow these steps to set up and run the project:
    ```bash
    git clone <https://github.com/farhansadikgalib/geo_sync>
    cd geo_sync
+
+
+## Download
+
+You can also download the app using the link below:
+
+[Download GEO SYNC](https://drive.google.com/file/d/1MOpuQ9XiHSQ7Yf0R2sq0Bn9pspgm-0mg/view?usp=drive_link)
